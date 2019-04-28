@@ -693,7 +693,7 @@
     "version": "1.15.2",
     "restore": {
       "projectUniqueName": "D:\\_myGitHub\\NetTopologySuite.Core\\NetTopologySuite.Core\\NetTopologySuite.Core.csproj",
-      "projectName": "NetTopologySuite.Core",
+      "projectName": "TM.NetTopologySuite.Core",
       "projectPath": "D:\\_myGitHub\\NetTopologySuite.Core\\NetTopologySuite.Core\\NetTopologySuite.Core.csproj",
       "packagesPath": "C:\\Users\\bagherian-al\\.nuget\\packages\\",
       "outputPath": "D:\\_myGitHub\\NetTopologySuite.Core\\NetTopologySuite.Core\\obj\\",
