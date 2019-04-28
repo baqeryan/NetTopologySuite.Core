@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NetTopologySuite.Core</id>
+    <version>1.15.2</version>
+    <authors>ali baqerian</authors>
+    <owners>ali baqerian</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/baqeryan/NetTopologySuite.Core</projectUrl>
+    <description>The NTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. NTS conforms to the Simple Features Specification.</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\bin\Release\netcoreapp2.2\NetTopologySuite.Core.dll" target="lib\netcoreapp2.2\NetTopologySuite.Core.dll" />
+  </files>
+</package>

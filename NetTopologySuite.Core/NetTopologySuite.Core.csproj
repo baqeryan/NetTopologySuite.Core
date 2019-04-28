@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Version>1.15.2</Version>
+    <Authors>ali baqerian</Authors>
+    <Product>NetTopologySuite.Core</Product>
+    <Company>NetTopologySuite</Company>
+    <PackageProjectUrl>https://github.com/baqeryan/NetTopologySuite.Core</PackageProjectUrl>
+    <Description>The NTS Topology Suite is an API for modelling and manipulating 2-dimensional linear geometry. It provides numerous geometric predicates and functions. NTS conforms to the Simple Features Specification.</Description>
+  </PropertyGroup>
+
+</Project>

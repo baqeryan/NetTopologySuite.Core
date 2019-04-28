@@ -1,0 +1,8 @@
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\bin\Release\netcoreapp2.2\NetTopologySuite.Core.deps.json
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\bin\Release\netcoreapp2.2\NetTopologySuite.Core.dll
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\bin\Release\netcoreapp2.2\NetTopologySuite.Core.pdb
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\obj\Release\netcoreapp2.2\NetTopologySuite.Core.csproj.CoreCompileInputs.cache
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\obj\Release\netcoreapp2.2\NetTopologySuite.Core.AssemblyInfoInputs.cache
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\obj\Release\netcoreapp2.2\NetTopologySuite.Core.AssemblyInfo.cs
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\obj\Release\netcoreapp2.2\NetTopologySuite.Core.dll
+D:\_myGitHub\NetTopologySuite.Core\NetTopologySuite.Core\obj\Release\netcoreapp2.2\NetTopologySuite.Core.pdb
